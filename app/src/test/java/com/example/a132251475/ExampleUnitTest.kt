@@ -1,4 +1,4 @@
-package com.example.appa1_32251475
+package com.example.a132251475
 
 import org.junit.Test
 
